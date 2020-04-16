@@ -19,3 +19,5 @@ git operate note:
 7. change    requires changes
 8. release   release a stable version
 ****************************************************************************
+
+    Yansh standard <-<
